@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Cox's Bazar",
+        "description": "Cox's Bazar is a popular tourist destination in Bangladesh known for its long sandy beach and beautiful sunsets. It is the longest natural sea beach in the world, stretching over 120 kilometers. The beach is a perfect spot for leisurely walks, sunbathing, and enjoying various water activities such as swimming and surfing. Cox's Bazar also offers stunning views of the Bay of Bengal, with its pristine blue waters and tranquil ambiance. Visitors can explore nearby attractions like Himchari National Park, Inani Beach, and Moheshkhali Island.",
+        "img": "https://i.ibb.co/4d4m15M/Rectangle-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Sreemangal",
+        "description": "Sreemangal is a small town located in the northeastern part of Bangladesh and is famous for its lush green tea gardens and scenic landscapes. The region is often referred to as the tea capital of Bangladesh. Visitors can immerse themselves in the beauty of the tea plantations, take guided tours to learn about the tea-making process, and savor freshly brewed tea. Sreemangal is also home to Lawachara National Park, where nature enthusiasts can explore diverse flora and fauna, including the critically endangered Hoolock gibbons. The area is a paradise for bird watchers, with numerous species of birds to be spotted in the wetlands and forests.",
+        "img": "https://example.com/sreemangal.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sundarbans",
+        "description": "The Sundarbans is a vast mangrove forest located in the southwestern part of Bangladesh, adjacent to the Bay of Bengal. It is a UNESCO World Heritage Site and one of the largest mangrove forests in the world. The Sundarbans is renowned for its unique ecosystem and rich biodiversity. It is home to the Royal Bengal tigers, which are one of the main attractions for visitors. Exploring the Sundarbans involves thrilling boat safaris through the dense mangrove creeks, where you can spot various wildlife species, including crocodiles, deer, monkeys, and an array of bird species. The region's natural beauty and untouched wilderness make it a must-visit destination for nature lovers and adventure enthusiasts.",
+        "img": "https://i.ibb.co/0hbgQ6v/sundorbon.png"
+    },
+    {
+        "id": 4,
+        "name": "Sajek",
+        "description": "Sajek is a scenic hill resort located in the Rangamati District of Bangladesh. Nestled among the lush green mountains of the Chittagong Hill Tracts, Sajek offers breathtaking panoramic views of the surrounding valleys, forests, and the majestic Karnafuli River. The region is known for its serene and tranquil atmosphere, making it a perfect escape from the hustle and bustle of city life. Visitors can enjoy trekking through the verdant trails, interact with the indigenous communities like the Tripura and Marma tribes, and witness their unique culture and traditions. Sajek is a paradise for nature lovers, offering picturesque landscapes, refreshing waterfalls, and a chance to experience the charm of the hillside life.",
+        "img": "https://i.ibb.co/9cqbxXC/Sajek.png"
+    }
+]
